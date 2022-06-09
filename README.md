@@ -3,7 +3,7 @@
 
 ## How to use  
 
-Talk to the bot on Telegram @biblegate_bot or add it to your group. Whenever someone quotes a Bible verse in the form **'John 3:16'** the bot will reply with the verse, like this:
+Talk to the bot on Telegram [@biblegate_bot](https://t.me/biblegate_bot) or add it to your group. Whenever someone quotes a Bible verse in the form **'John 3:16'** the bot will reply with the verse, like this:
 >  **John 3:16, KJV**  
 > For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
