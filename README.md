@@ -16,7 +16,7 @@ Gives a small introduction to the bot.
 Returns a list with the names of all the books of the Bible the bot can quote.
 
 ## To-do
-[x] Add support for ranges of verses (like John 1:1-5)  
-[ ] Add inline buttons to save a verse as favorite  
-[ ] Add translations of the Bible  
-[ ] Add more to-dos  
+- [x] Add support for ranges of verses (like John 1:1-5)  
+- [ ] Add inline buttons to save a verse as favorite  
+- [ ] Add translations of the Bible  
+- [ ] Add more to-dos  
