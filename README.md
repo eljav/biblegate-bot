@@ -3,11 +3,12 @@
 
 ## How to use  
 
-Talk to the bot on Telegram @biblegate_bot or add it to your group. Whenever someone quotes a Bible verse in the form 'John 3:16' the bot will reply with the verse, like this:
+Talk to the bot on Telegram @biblegate_bot or add it to your group. Whenever someone quotes a Bible verse in the form **'John 3:16'** the bot will reply with the verse, like this:
 >  **John 3:16, KJV**  
 > For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
-It also will quote whole chapters in the form 'John 1' and ranges of verses in the form 'John 1:1-5'.
+It also will quote whole chapters in the form **'John 1'** and ranges of verses in the form **'John 1:1-5'**.
+If the message exceeds the Telegram limit of 4096 characters, it will be separated in different messages.
 
 ## Available commands  
 
